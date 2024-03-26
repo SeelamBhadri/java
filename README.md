@@ -1,1 +1,1 @@
-new image
+local image
